@@ -63,6 +63,10 @@ hr{
 .outros-conteudos{
     background-color: black;
     margin: 0px;
+    align-items: center;
+}
+.container4{
+    margin-top: 50px;
 }
 .outros{
     color: white;
