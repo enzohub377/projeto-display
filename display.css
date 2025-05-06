@@ -58,4 +58,14 @@ hr{
 }
 .sobre{
     font-size: 20px;
+    margin-bottom: 30px;
+}
+.outros-conteudos{
+    background-color: black;
+    margin: 0px;
+}
+style{
+    .azul{
+        color: #00BFFF;
+    }
 }
